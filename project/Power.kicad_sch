@@ -1879,7 +1879,7 @@
     (property "Mfr." "Bourns" (at 135.89 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mfr. No." "CR0603-J/-000ELF" (at 135.89 63.5 0)
+    (property "Mfr. No." "CR0402-J/-000GLF" (at 135.89 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Order Number" "652-CR0603-J/-000ELF" (at 135.89 63.5 0)
